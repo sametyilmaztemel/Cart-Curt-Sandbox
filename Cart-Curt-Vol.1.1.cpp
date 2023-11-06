@@ -49,7 +49,7 @@ void ogrenciListesiniGoster(yurt_ogrenci *ogrenciler, int ogrenci_sayisi)
 
 int main()
 {
-    const int MAX_OGRENCI = 10; // Maksimum öğrenci sayısı
+    const int MAX_OGRENCI = 10;
     yurt_ogrenci ogrenciler[MAX_OGRENCI];
     int ogrenci_sayisi = 0;
 
